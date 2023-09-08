@@ -1,0 +1,9 @@
+importfilelist
+{
+	"file"	"materials\models\surf\air_arena_ramp.vmt"
+	"file"	"materials\models\surf\concrete_black.vmt"
+	"file"	"materials\models\surf\air_arena_blue.vmt"
+	"file"	"materials\models\surf\concrete_blackred.vmt"
+	"file"	"materials\models\surf\concrete_white.vmt"
+	"file"	"materials\models\surf\concretefloor.vmt"
+}
